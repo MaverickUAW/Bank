@@ -1,0 +1,36 @@
+D:\ooop\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+D:\ooop\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+D:\ooop\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.csprojAssemblyReference.cache
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.Properties.Resources.resources
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.csproj.GenerateResource.cache
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
+D:\ooop\BankProgram\BankProgram\obj\Debug\BankProgram.YourBanks.resources
+F:\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+F:\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+F:\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.csprojAssemblyReference.cache
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.YourBanks.resources
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.Properties.Resources.resources
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.csproj.GenerateResource.cache
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+F:\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
+H:\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
+H:\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+H:\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.csprojResolveAssemblyReference.cache
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.YourBanks.resources
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.Properties.Resources.resources
+H:\BankProgram\BankProgram\obj\Debug\BankProgram.csproj.GenerateResource.Cache
+D:\основи прог инж\BankProgram\BankProgram\bin\Debug\BankProgram.exe.config
+D:\основи прог инж\BankProgram\BankProgram\bin\Debug\BankProgram.exe
+D:\основи прог инж\BankProgram\BankProgram\bin\Debug\BankProgram.pdb
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.csprojAssemblyReference.cache
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.YourBanks.resources
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.Properties.Resources.resources
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.csproj.GenerateResource.cache
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.exe
+D:\основи прог инж\BankProgram\BankProgram\obj\Debug\BankProgram.pdb
